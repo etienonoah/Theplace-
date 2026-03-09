@@ -41,13 +41,13 @@ list-style:none;
 
 .nav-links li{
 margin-left:20px;
+font-sze:12px;
 }
 
 .nav-links a{
 text-decoration:none;
 color:#A8B6C9;
 font-weight:100;
-font-sze:12px;
 transition:0.3s;
 }
 
