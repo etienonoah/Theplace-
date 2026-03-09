@@ -18,7 +18,7 @@ line-height:1.6;
 display:flex;
 justify-content:space-between;
 align-items:center;
-padding:2px 7%;
+padding:2px 5%;
 background:#0A2540;
 position:fixed;
 top:0;
@@ -28,7 +28,7 @@ border-radius: 30px;
 }
 
 img{
-width: 90px;
+width: 70px;
 padding: 0;
 margin-left: 0;
 margin-bottom: 0;
@@ -46,7 +46,7 @@ margin-left:20px;
 .nav-links a{
 text-decoration:none;
 color:#A8B6C9;
-font-weight:300;
+font-weight:100;
 transition:0.3s;
 }
 
