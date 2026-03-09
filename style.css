@@ -47,7 +47,7 @@ font-sze:12px;
 .nav-links a{
 text-decoration:none;
 color:#A8B6C9;
-font-weight:100;
+font-sze:12px;
 transition:0.3s;
 }
 
@@ -74,7 +74,7 @@ padding:20px;
 
 .hero-text{
 margin-top: 10px;
-margin-bottom: 10rem;
+margin-bottom: 12rem;
 }
 
 .hero h1{
